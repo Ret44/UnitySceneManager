@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/Essentials"]
+	path = Assets/Scripts/Essentials
+	url = https://github.com/Ret44/UnityEssentials.git
